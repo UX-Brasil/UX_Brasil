@@ -36,10 +36,10 @@ const UserProfile = () => {
         email: "mathew.anderson@gmail.com",
         phone: "(347) 528-1947",
         position: "Team Leader",
-        facebook: "https://www.facebook.com/wrappixel",
-        twitter: "https://twitter.com/wrappixel",
-        github: "https://github.com/wrappixel",
-        dribbble: "https://dribbble.com/wrappixel"
+        facebook: "https://www.facebook.com/UX_Brasil",
+        twitter: "https://twitter.com/UX_Brasil",
+        github: "https://github.com/UX_Brasil",
+        dribbble: "https://dribbble.com/UX_Brasil"
     });
 
     const [address, setAddress] = useState({
@@ -72,10 +72,10 @@ const UserProfile = () => {
     };
 
     const socialLinks = [
-        { href: "https://www.facebook.com/wrappixel", icon: "streamline-logos:facebook-logo-2-solid" },
-        { href: "https://twitter.com/wrappixel", icon: "streamline-logos:x-twitter-logo-solid" },
-        { href: "https://github.com/wrappixel", icon: "ion:logo-github" },
-        { href: "https://dribbble.com/wrappixel", icon: "streamline-flex:dribble-logo-remix" },
+        { href: "https://www.facebook.com/UX_Brasil", icon: "streamline-logos:facebook-logo-2-solid" },
+        { href: "https://twitter.com/UX_Brasil", icon: "streamline-logos:x-twitter-logo-solid" },
+        { href: "https://github.com/UX_Brasil", icon: "ion:logo-github" },
+        { href: "https://dribbble.com/UX_Brasil", icon: "streamline-flex:dribble-logo-remix" },
     ];
 
     return (
